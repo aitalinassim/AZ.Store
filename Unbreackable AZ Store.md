@@ -27,7 +27,7 @@ As per odoo website, the last version could be retreived at the date of machine 
 **Q1: What is the password of Mounir ?**
 
 The username is hidden between the text (white text with white background)
-The password could be deduced by php form injection, using rockyou.txt
+The password could be deduced usine Hydra and rockyou.txt
 
 
 ## Task 5: Logged in
